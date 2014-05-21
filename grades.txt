@@ -1,0 +1,73 @@
+#################
+##  Fall 2012  ##
+#################
+
+- Comparative Literature R1B: Ways of Looking
+units: 4
+grade: A
+tech: no
+- Computer Science 10: Beauty and Joy of Computing
+units: 4
+grade: A+
+tech: no
+- Engineering 98: Introduction to Engineering
+units: 1
+grade: P
+tech: no
+- Math 1B: Calculus
+units: 4
+grade: B+
+tech: yes
+
+
+#################
+##  Fall 2013  ##
+#################
+
+- Electrical Engineering 42: Introduction to Digital Electronics
+units: 3
+grade: A-
+tech: no
+- Computer Science 61A: Structure and Interpretation of Computer Programs
+units: 4
+grade: B
+tech: yes
+- Computer Science 98: Macintosh Student Developers for OSX
+units: 2
+grade: P
+tech: no
+- History 4A: The Ancient Mediterranean World
+units: 4
+grade: A-
+tech: no
+
+
+###################
+##  Spring 2014  ##
+###################
+
+- Classics 28: The Classic Greek Myths
+units: 4
+grade: A-
+tech: no
+- Computer Science 61B: Data Structures
+units: 4
+grade: B+
+tech: yes
+- Computer Science 98: Macintosh Student Developers for OSX
+units: 2
+grade: P
+tech: no
+- Math 54: Linear Algebra and Differential Equations
+units: 4
+grade: B
+tech: yes
+- Mechanical Engineering 98: Archery
+units: 2
+grade: P
+tech: no
+
+
+################
+##  End File  ##
+################
