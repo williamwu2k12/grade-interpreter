@@ -48,11 +48,11 @@ tech: no
 
 - Classics 28: The Classic Greek Myths
 units: 4
-grade: A-
+grade: A
 tech: no
 - Computer Science 61B: Data Structures
 units: 4
-grade: B+
+grade: A-
 tech: yes
 - Computer Science 98: Macintosh Student Developers for OSX
 units: 2
@@ -64,6 +64,30 @@ grade: B
 tech: yes
 - Mechanical Engineering 98: Archery
 units: 2
+grade: P
+tech: no
+
+
+###################
+##  Summer 2014  ##
+###################
+
+- Computer Science 70: Discrete Mathematics and Probability Theory
+units: 4
+grade: P
+tech: no
+
+
+#################
+##  Fall 2014  ##
+#################
+
+- Computer Science 61C: Machine Structures
+units: 4
+grade: P
+tech: no
+- Asian American Studies 128AC: Muslims in America
+units: 4
 grade: P
 tech: no
 
