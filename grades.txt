@@ -1,4 +1,4 @@
-#################
+################
 ##  Fall 2012  ##
 #################
 
@@ -74,8 +74,8 @@ tech: no
 
 - Computer Science 70: Discrete Mathematics and Probability Theory
 units: 4
-grade: P
-tech: no
+grade: A
+tech: yes
 
 
 #################
@@ -84,10 +84,22 @@ tech: no
 
 - Computer Science 61C: Machine Structures
 units: 4
-grade: P
-tech: no
+grade: A
+tech: yes
 - Asian American Studies 128AC: Muslims in America
 units: 4
+grade: A-
+tech: no
+- Computer Science 188: Artificial Intelligence
+units: 4
+grade: B
+tech: yes
+- Computer Science 98: Ruby on Rails Decal
+units: 2
+grade: P
+tech: no
+- Computer Science 97B: CS61B Lab Assisting
+units: 1
 grade: P
 tech: no
 

@@ -79,6 +79,8 @@ def processInput():
     elif (text == "gpa"):
         print("total: " + str(total[0] / total[1]) + " units: " + str(total[1]))
         print("tech: " + str(tech[0] / tech[1]) + " units: " + str(tech[1]))
+    elif (text == "help"):
+        print("commands: 'classes', 'gpa', 'exit/end/quit'")
     elif (text == "exit" or text == "end" or text == "quit"):
         return
     else:
