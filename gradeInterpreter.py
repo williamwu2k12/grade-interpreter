@@ -70,7 +70,10 @@ processFile(grades)
 
 
 def processInput():
-    text = input("-> ")
+    try:
+        text = raw_input("-> ")
+    except:
+        text = input("-> ")
     if (text == "classes"):
         for obj in classes:
             print(obj.title)
@@ -79,6 +82,20 @@ def processInput():
     elif (text == "gpa"):
         print("total: " + str(total[0] / total[1]) + " units: " + str(total[1]))
         print("tech: " + str(tech[0] / tech[1]) + " units: " + str(tech[1]))
+    elif (text == "reload"):
+        grades = open("grades.txt")
+
+        global index
+
+        total[0] = 0.0
+        total[1] = 0
+        tech[0] = 0.0
+        tech[1] = 0
+        index = 0
+        while (classes != []):
+            classes.pop()
+
+        processFile(grades)
     elif (text == "help"):
         print("commands: 'classes', 'gpa', 'exit/end/quit'")
     elif (text == "exit" or text == "end" or text == "quit"):

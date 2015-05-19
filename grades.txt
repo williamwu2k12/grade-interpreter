@@ -84,7 +84,7 @@ tech: yes
 
 - Computer Science 61C: Machine Structures
 units: 4
-grade: A
+grade: B+
 tech: yes
 - Asian American Studies 128AC: Muslims in America
 units: 4
@@ -92,7 +92,7 @@ grade: A-
 tech: no
 - Computer Science 188: Artificial Intelligence
 units: 4
-grade: B
+grade: B-
 tech: yes
 - Computer Science 98: Ruby on Rails Decal
 units: 2
@@ -100,6 +100,28 @@ grade: P
 tech: no
 - Computer Science 97B: CS61B Lab Assisting
 units: 1
+grade: P
+tech: no
+
+
+###################
+##  Spring 2015  ##
+###################
+
+- Computer Science 170: Algorithms
+units: 4
+grade: B-
+tech: yes
+- Computer Science 189: Introduction to Machine Learning
+units: 4
+grade: B-
+tech: yes
+- Industrial Engineering and Operations Research 191: Technological Entrepreneurship
+units: 3
+grade: A
+tech: no
+- Undergraduate Business Administration 96: Personal Finance
+units: 2
 grade: P
 tech: no
 
